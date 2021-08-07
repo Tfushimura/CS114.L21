@@ -31,19 +31,16 @@
 | 1 | **PGS.TS. Lê Đình Duy** | *duyld@uit.edu.vn* |
 | 2 | **Ths. Phạm Nguyễn Trường An** | *truonganpn@uit.edu.vn* |
 
-## THÀNH VIÊN NHÓM
-| STT | Họ tên | MSSV | Vai trò | Email | Github | Facebook |
-| :---: | --- | --- | --- | --- | --- | --- |
-| 1 | Cao Hưng Phú | 19520214 | Nhóm trưởng | *19520214@gm.uit.edu.vn* | [caohungphu](https://github.com/caohungphu) | [caohungphuvn](https://www.facebook.com/caohungphuvn) |
-| 2 | Nguyễn Thành Công | 19521294 | Thành viên | *19521294@gm.uit.edu.vn* | [Tfushimura](https://github.com/Tfushimura) | [cong.troller](https://www.facebook.com/cong.troller) |
-| 3 | Trần Huỳnh Kỳ Anh | 19521216 | Thành viên | *19521216@gm.uit.edu.vn* | [tranhuynhkyanh](https://github.com/tranhuynhkyanh) | [tranhuynhkyanh](https://www.facebook.com/tranhuynhkyanh) |
+## GIỚI THIỆU BẢN THÂN
+* **Họ tên:** Nguyễn Thành Công
+* **Mã số sinh viên:** 19521294
+* **Khoa:** Khoa học máy tính
+* **Facebook:** https://www.facebook.com/cong.troller
 
-## ĐỒ ÁN CUỐI KỲ
-* **Tên đồ án:** PHÁT HIỆN CHÁY THÔNG QUA HÌNH ẢNH
-* **Thư mục:** [FinalProject](FinalProject)
+## GITHUB NHÓM
+* **https://github.com/caohungphu/CS114.L21** 
+
 
 <!-- Footer -->
 `Copyright © 2021`
 
-<!-- Xin đừng copy :D. Please don't copy :D -->
-<!-- Copyright © 2021 - By Hưng Phú - 19520214. -->
